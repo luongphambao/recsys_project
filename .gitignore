@@ -1,0 +1,4 @@
+.env
+mlflow.db
+data/
+.venv/
